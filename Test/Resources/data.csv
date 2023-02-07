@@ -1,0 +1,6 @@
+*** Test Cases,${username},${password}
+Invalid username,abcd,learning
+Invalid password,rahulshettyacademy,1234
+special charactor,@#$%^,12345
+aza,1212,2121
+
